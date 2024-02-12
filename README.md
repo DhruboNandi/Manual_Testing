@@ -3,4 +3,4 @@ These are done such as:
 Requirement Analysis.
 Setup Test Environment.
 Write Test cases.
-Bug Report.
+Generate Bug Report.
