@@ -1,4 +1,4 @@
-<h1 style=" color: blue;">Test the Daraz website Login page using valid and invalid credentials</h1>
+<h2 style=" color: blue">Test the Daraz website Login page using valid and invalid credentials</h1>
 
 <h4>Steps :</h4>
 <p>Requirement Analysis.</p>
