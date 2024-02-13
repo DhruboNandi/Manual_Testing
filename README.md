@@ -1,5 +1,5 @@
 <h2>Test the Daraz website Login page using valid and invalid credentials<h2>
-<p>These are done such as</p>
+<h4>Steps :</h4>
 <p>Requirement Analysis.</p>
 <p>Setup Test Environment.</p>
 <p>Write Test cases.</p>
