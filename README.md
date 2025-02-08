@@ -36,12 +36,7 @@
   <li><strong>Test Metrics Generation:</strong> Evaluated test case execution, defect rates, and pass/fail statistics.</li>
 </ol>
 
-<hr />
-
-
-
-
-<hr />
+<hr >
 
 
 
