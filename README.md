@@ -52,67 +52,12 @@
       <th>Status</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td>TC001</td>
-      <td>Login with valid credentials</td>
-      <td>User must have a valid account</td>
-      <td>1. Navigate to Login Page<br>2. Enter valid username and password<br>3. Click 'Login'</td>
-      <td>User is redirected to the dashboard</td>
-      <td>As Expected</td>
-      <td>Pass</td>
-    </tr>
-    <tr>
-      <td>TC002</td>
-      <td>Signup with invalid email</td>
-      <td>N/A</td>
-      <td>1. Navigate to Signup Page<br>2. Enter an invalid email format<br>3. Click 'Signup'</td>
-      <td>Error message displayed</td>
-      <td>Error message displayed</td>
-      <td>Pass</td>
-    </tr>
-  </tbody>
-</table>
+ 
+
 
 <hr />
 
-<h2>Bug Report Example</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Bug ID</th>
-      <th>Description</th>
-      <th>Steps to Reproduce</th>
-      <th>Expected Result</th>
-      <th>Actual Result</th>
-      <th>Severity</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>BUG001</td>
-      <td>Signup button not working</td>
-      <td>1. Navigate to Signup Page<br>2. Fill out the form<br>3. Click 'Signup'</td>
-      <td>User is registered successfully</td>
-      <td>Button click has no action</td>
-      <td>Critical</td>
-      <td>Open</td>
-    </tr>
-  </tbody>
-</table>
 
-<hr />
-
-<h2>Test Metrics Example</h2>
-<ul>
-  <li><strong>Total Test Cases:</strong> 50</li>
-  <li><strong>Test Cases Passed:</strong> 45</li>
-  <li><strong>Test Cases Failed:</strong> 5</li>
-  <li><strong>Defect Density:</strong> 10%</li>
-</ul>
-
-<hr />
 
 <h2>Tools Used</h2>
 <ul>
@@ -121,13 +66,4 @@
   <li><strong>Bug Tracking:</strong> JIRA, Bugzilla</li>
   <li><strong>Metrics Analysis:</strong> Excel, Custom Reports</li>
 </ul>
-
-<h2>Contributors</h2>
-<p>Feel free to contribute by suggesting improvements or sharing feedback.</p>
-
-<h2>License</h2>
-<p>
-  This project is licensed under the <strong>MIT License</strong>. 
-  See the <code>LICENSE</code> file for more details.
-</p>
 
