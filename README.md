@@ -47,9 +47,8 @@
 
 <h2>Tools Used</h2>
 <ul>
-  <li><strong>Mind Mapping:</strong> XMind, Lucidchart</li>
-  <li><strong>Test Case Management:</strong> Excel, Google Sheets</li>
-  <li><strong>Bug Tracking:</strong> JIRA, Bugzilla</li>
-  <li><strong>Metrics Analysis:</strong> Excel, Custom Reports</li>
+  <li><strong>Mind Mapping:</strong> XMind</li>
+  <li><strong>Test Case Management:</strong> Excel</li>
+  <li><strong>Metrics Analysis:</strong> Excel</li>
 </ul>
 
