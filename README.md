@@ -31,28 +31,14 @@
 
 <h2>Steps Followed</h2>
 <ol>
-  <li><strong>Mind Map Creation:</strong> Used tools like XMind or Lucidchart to visually represent the testing flow and areas to be tested.</li>
+  <li><strong>Mind Map Creation:</strong> Used tools like XMind to visually represent the testing flow and areas to be tested.</li>
   <li><strong>Test Case Writing:</strong> Defined preconditions, test steps, expected results, and actual results in a standard format.</li>
-  <li><strong>Bug Reporting:</strong> Used Excel or a bug tracking tool like JIRA to log issues with details and severity.</li>
   <li><strong>Test Metrics Generation:</strong> Evaluated test case execution, defect rates, and pass/fail statistics.</li>
 </ol>
 
 <hr />
 
-<h2>Sample Test Case Format</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Test Case ID</th>
-      <th>Description</th>
-      <th>Preconditions</th>
-      <th>Steps</th>
-      <th>Expected Result</th>
-      <th>Actual Result</th>
-      <th>Status</th>
-    </tr>
-  </thead>
- 
+
 
 
 <hr />
